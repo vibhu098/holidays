@@ -2,7 +2,7 @@ import React, {Component, PropTypes} from 'react';
 import ReactDOM from 'react-dom';
 import moment from 'moment';
 import Month from './month';
-import HolidayList from './holidaylist';
+import HolidayList from './holidayList';
 import MonthView from './month_detail';
 
 class Year extends Component{
