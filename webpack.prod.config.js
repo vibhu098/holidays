@@ -10,9 +10,10 @@ module.exports = {
         vendor: [
             'moment',
             'react',
-            'jquery'
+            'jQuery'
         ]
     },
+    devtool: 'source-map',
     output: {
         publicPath: 'http://localhost:8080/',
         filename: './server/public/js/[name].js'
