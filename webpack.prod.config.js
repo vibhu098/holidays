@@ -10,7 +10,7 @@ module.exports = {
         vendor: [
             'moment',
             'react',
-            'jQuery'
+            'jquery'
         ]
     },
     devtool: 'source-map',
