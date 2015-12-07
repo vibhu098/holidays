@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import $ from 'jquery';
 import moment from 'moment';
 import Month from './month';
-import HolidayList from './holidaylist';
+import HolidayList from './holidayList';
 
 class MonthView extends Component{
 	constructor(props) {
