@@ -1,6 +1,6 @@
 import React, {Component, PropTypes} from 'react';
 import ReactDOM from 'react-dom';
-import $ from 'jQuery';
+import $ from 'jquery';
 import moment from 'moment';
 import Month from './month';
 import HolidayList from './holidaylist';
