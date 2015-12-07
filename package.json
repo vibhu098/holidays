@@ -20,7 +20,7 @@
     "url": "https://github.com/andrewngu/sound-redux/issues"
   },
   "homepage": "https://github.com/andrewngu/sound-redux",
-  "devDependencies": {
+  "dependencies": {
     "express": "^4.13.1",
     "path": "^0.11.14",
     "file-loader": "^0.8.4",
